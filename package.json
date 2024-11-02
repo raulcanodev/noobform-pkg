@@ -1,7 +1,7 @@
 {
-  "name": "noobform-pkg",
+  "name": "noobform",
   "version": "1.0.0",
-  "description": "noobform is a powerful and easy-to-use form management library for developers. Designed as a simple integration for your applications, it allows users to create, manage, and submit forms seamlessly. With noobform, you can effortlessly track form submissions and store data in a structured format.",
+  "description": "NoobForm is a powerful and easy-to-use form management library for developers. Designed as a simple integration for your applications, it allows users to create, manage, and submit forms seamlessly. With NoobForm, you can effortlessly track form submissions and store data in a structured format.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
