@@ -1,0 +1,27 @@
+{
+  "name": "noobform-pkg",
+  "version": "1.0.0",
+  "description": "noobform is a powerful and easy-to-use form management library for developers. Designed as a simple integration for your applications, it allows users to create, manage, and submit forms seamlessly. With noobform, you can effortlessly track form submissions and store data in a structured format.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raulcanodev/noobform-pkg.git"
+  },
+  "keywords": [
+    "form",
+    "web-forms",
+    "data-submission",
+    "npm",
+    "form-handler",
+    "form-management"
+  ],
+  "author": "Raul Cano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raulcanodev/noobform-pkg/issues"
+  },
+  "homepage": "https://github.com/raulcanodev/noobform-pkg#readme"
+}
